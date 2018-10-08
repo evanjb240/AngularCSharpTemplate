@@ -1,0 +1,16 @@
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.deps.json
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.runtimeconfig.json
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.runtimeconfig.dev.json
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.dll
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.pdb
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/obj/Debug/netcoreapp1.1/AutomatedTrader.AssemblyInfo.cs
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/obj/Debug/netcoreapp1.1/AutomatedTrader.dll
+/Users/evanbauer/Desktop/Mining/AutomatedTrader/automated-trader/obj/Debug/netcoreapp1.1/AutomatedTrader.pdb
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.deps.json
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.runtimeconfig.json
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.runtimeconfig.dev.json
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.dll
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/bin/Debug/netcoreapp1.1/AutomatedTrader.pdb
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/obj/Debug/netcoreapp1.1/AutomatedTrader.AssemblyInfo.cs
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/obj/Debug/netcoreapp1.1/AutomatedTrader.dll
+/Users/evanbauer/Desktop/Mining/Copied Template/automated-trader/obj/Debug/netcoreapp1.1/AutomatedTrader.pdb
