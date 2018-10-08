@@ -8,9 +8,7 @@ namespace WebAPIClient
     {
         [DataMember(Name="data")]
         public Data Data{get;set;}
-        // "id": 1, 
-        // "name": "Bitcoin", 
-        // "symbol": "BTC", 
+ 
         // "website_slug": "bitcoin", 
         // "rank": 1, 
         // "circulating_supply": 17008162.0, 
